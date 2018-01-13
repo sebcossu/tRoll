@@ -1,0 +1,22 @@
+{
+  "name": "tRoll",
+  "description": "tRoll",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Sebastiano M. Cossu <seb@killerklown.net>",
+    "url": "https://www.killerklown.net"
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+    "it": {
+	  "name": "tRoll",
+      "description": "tRoll"
+    }   
+  },
+  "default_locale": "it",
+  "icons": {
+    "120": "img/snake.png",
+    "60": "img/snake.png"
+  },
+  "orientation": "portrait-primary"
+}
